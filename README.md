@@ -166,7 +166,7 @@ After each stage (HT and foaming), samples were measured for **mass** (analytica
 | **Polymer** | PBS commercial pellets |
 | **Solvent** | Milli-Q water |
 | **Inert gas** | Nitrogen (N₂) |
-| **Drug** | Ibuprofen *(pending confirmation — Prof. Juan)* |
+| **Drug** | Ibuprofen |
 | **Foaming agent** | Supercritical CO₂ |
 | **Equipment** | Batch reactor · Thar SFC pump · Heating mantle |
 | **Measurement** | Analytical balance · Calliper · Fotocol |
@@ -195,7 +195,7 @@ After each stage (HT and foaming), samples were measured for **mass** (analytica
 
 <div align="center">
 
-*Made with 🧪 by [Ahmed bin Mustafa](https://github.com/AhmedbinMustafa)*
+[Ahmed bin Mustafa](https://github.com/AhmedbinMustafa)*
 *M.Eng. Chemical Engineering · Germany · 2026*
 
 </div>
